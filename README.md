@@ -13,3 +13,4 @@ To excecute this algorithm,
 ### Step 5 : Generate the GIF animation    
     gnuplot plot.plt  
 
+![animate2D](https://github.com/abyoussef/Hegselmann-KrauseMPI/blob/master/animate2D.gif)
